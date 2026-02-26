@@ -52,18 +52,18 @@
 GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a layer of personalization for organizations. It provides integration into GitHub as a chat interface, so developers can converse about their codebase. It also provides action buttons throughout the platform.
 
 **# Interact with Copilot**		
- 	**Inline suggestions** - accept TAB , -> Reject Esc
- 	**Command palette ** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain
- 	**Copilot Chat**
- 	**Inline Chat** - within the code editor CTRL+I
+ 	**Inline suggestions** - accept TAB , -> Reject Esc <br>
+ 	**Command palette ** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain <br>
+ 	**Copilot Chat** <br>
+ 	**Inline Chat** - within the code editor CTRL+I <br>
 					 - Slash Commands
 					   `/explain`  - Provides an explanation of the selected code.
 					   `/suggest`  - Offers code suggestions based on the current context.
 					   `/tests`  - Generates unit tests for the selected function or class.
 					   `/comment`  - Converts comments into code snippets.					  
-	**Comments to code**
-		  Just type comment in vscode and enter to generate code	
-	**Multiple Suggestions**
-		Yellow light bulb or ALt +[
-	**Explanations**
-	**Automated test generation**
+	**Comments to code**<br>
+		  Just type comment in vscode and enter to generate code	<br>
+	**Multiple Suggestions**<br>
+		Yellow light bulb or ALt +[ <br>
+	**Explanations** <br>
+	**Automated test generation** <br>
