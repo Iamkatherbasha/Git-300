@@ -57,7 +57,7 @@ GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a
  	**Copilot Chat** <br>
  	**Inline Chat** - within the code editor CTRL+I <br>
 
-					 - **Slash Commands** <br>
+					 **Slash Commands** <br>
 					   `/explain`  - Provides an explanation of the selected code. <br>
 					   `/suggest`  - Offers code suggestions based on the current context.<br>
 					   `/tests`  - Generates unit tests for the selected function or class.<br>
