@@ -15,4 +15,15 @@
 - Assert and iterate
 - Chain prompting and managing chat history
 - Role prompting for specialized tasks
-	
+
+**Prompt types supported by GitHub Copilot Chat**
+
+- Direct Questions
+- Code Related Questions
+- Open Ended Queries
+- Contextual Prompts
+
+Copilot Filter out all personal data
+LoRA (Low-Rank Adaptation): 
+LoRA adds smaller trainable parts to each layer of the pretrained model, instead of changing everything.
+The original model remains the same, which saves time and resources.
