@@ -23,7 +23,7 @@
 - Open Ended Queries
 - Contextual Prompts
 
-Copilot Filter out all personal data
-LoRA (Low-Rank Adaptation): 
-LoRA adds smaller trainable parts to each layer of the pretrained model, instead of changing everything.
-The original model remains the same, which saves time and resources.
+Copilot Filter out all personal data <Br>
+**LoRA (Low-Rank Adaptation):**
+- LoRA adds smaller trainable parts to each layer of the pretrained model, instead of changing everything.
+- The original model remains the same, which saves time and resources.
