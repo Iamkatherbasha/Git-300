@@ -56,11 +56,12 @@ GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a
  	**Command palette** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain <br>
  	**Copilot Chat** <br>
  	**Inline Chat** - within the code editor CTRL+I <br>
-					 - Slash Commands
-					   `/explain`  - Provides an explanation of the selected code.
-					   `/suggest`  - Offers code suggestions based on the current context.
-					   `/tests`  - Generates unit tests for the selected function or class.
-					   `/comment`  - Converts comments into code snippets.					  
+
+					 - **Slash Commands** <br>
+					   `/explain`  - Provides an explanation of the selected code. <br>
+					   `/suggest`  - Offers code suggestions based on the current context.<br>
+					   `/tests`  - Generates unit tests for the selected function or class.<br>
+					   `/comment`  - Converts comments into code snippets.	<br>				  
 	**Comments to code**<br>
 		  Just type comment in vscode and enter to generate code	<br>
 	**Multiple Suggestions**<br>
