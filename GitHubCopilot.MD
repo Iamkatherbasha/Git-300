@@ -53,7 +53,7 @@ GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a
 
 **# Interact with Copilot**		
  	**Inline suggestions** - accept TAB , -> Reject Esc <br>
- 	**Command palette ** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain <br>
+ 	**Command palette** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain <br>
  	**Copilot Chat** <br>
  	**Inline Chat** - within the code editor CTRL+I <br>
 					 - Slash Commands
