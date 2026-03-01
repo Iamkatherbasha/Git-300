@@ -67,3 +67,32 @@ GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a
 		Yellow light bulb or ALt +[ <br>
 	**Explanations** <br>
 	**Automated test generation** <br>
+
+**#GitHub Supported Languages** <br>
+	- Python
+	- JavaScript
+	- Java
+	- TypeScript
+	- Ruby
+	- Go
+	- C#
+	- C++
+
+**#Auto Suggestions**
+	- Multiple suggestion pane - Alt+] (next), Alt+[ (previous)
+
+**#GitHub Copilot Chat**
+	- Complex code generation
+	- Debugging Assistance
+	- Code explanations
+	Response can be improved using Scope (file#) and Environment (@workspace) referencing
+
+**slash commands**
+	- /doc
+	- /explain
+	- /fix
+	- /generate
+	- /optimize
+	- /tests
+**Copilot agents**
+GitHub Copilot agents are custom tools that you can build and integrate with GitHub Copilot Chat to provide additional functionalities tailored to your specific needs
