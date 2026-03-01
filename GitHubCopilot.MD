@@ -51,7 +51,7 @@
 
 GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a layer of personalization for organizations. It provides integration into GitHub as a chat interface, so developers can converse about their codebase. It also provides action buttons throughout the platform.
 
-**# Interact with Copilot**		<br>
+**#Interact with Copilot**		<br>
  	**Inline suggestions** - accept TAB , -> Reject Esc <br>
  	**Command palette** - VSCODE 	CTRL+SHIFT +P , then type Copilot eg : Explain <br>
  	**Copilot Chat** <br>
@@ -69,19 +69,19 @@ GitHub Copilot Enterprise includes everything in GitHub Copilot Business, plus a
 	**Automated test generation** <br>
 
 **#GitHub Supported Languages** <br>
-	- Python
-	- JavaScript
-	- Java
-	- TypeScript
-	- Ruby
-	- Go
-	- C#
-	- C++
+	- Python<br>
+	- JavaScript<br>
+	- Java<br>
+	- TypeScript<br>
+	- Ruby<br>
+	- Go<br>
+	- C#<br>
+	- C++<br>
 
-**#Auto Suggestions**
+**#Auto Suggestions**<br>
 	- Multiple suggestion pane - Alt+] (next), Alt+[ (previous)
 
-**#GitHub Copilot Chat**
+**#GitHub Copilot Chat**<br>
 	- Complex code generation
 	- Debugging Assistance
 	- Code explanations
